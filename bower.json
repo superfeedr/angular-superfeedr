@@ -1,0 +1,28 @@
+{
+  "name": "angular-superfeedr",
+  "version": "0.1.0",
+  "homepage": "https://github.com/superfeedr/angular-superfeedr",
+  "authors": [
+    "julien@superfeedr.com"
+  ],
+  "description": "An Angular Provider which wraps the Superfeedr HTTP API.",
+  "main": "angular-superfeedr.js",
+  "keywords": [
+    "rss",
+    "atom",
+    "superfeedr",
+    "realtime",
+    "pubshubbub",
+    "eventsource",
+    "subscribe",
+    "push"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
