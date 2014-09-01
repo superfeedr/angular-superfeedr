@@ -12,7 +12,7 @@ It implements the following features of the [Superfeedr HTTP API](http://documen
 
 # Install
 
-`bower install ngsuperfeedr
+`bower install ngsuperfeedr`
 
 # Usage
 
